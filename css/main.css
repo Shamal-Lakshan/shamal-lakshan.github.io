@@ -2697,7 +2697,8 @@
         
         .title-block {
             position: relative;
-            text-align: center
+            text-align: center;
+            background-image: image(#BD0034);
         }
         
         .title-block h2 {
@@ -2852,12 +2853,14 @@
         }
         
         .text-copy:nth-child(2) {
-            stroke: #840037;
+            /* stroke: #840037; */
+            stroke: #ffffff;
             animation-delay: -2s;
         }
         
         .text-copy:nth-child(3) {
-            stroke: #BD0034;
+            /* stroke: #BD0034; */
+            stroke: #ffffff;
             animation-delay: -3s;
         }
         
@@ -3111,4 +3114,23 @@
             100% {
                 opacity: 0.1;
             }
+        }
+        
+        #myVideo {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            min-width: 100%;
+            min-height: 100%;
+            opacity: 50%;
+        }
+        /* Add some content at the bottom of the video/page */
+        
+        .content {
+            /* position: fixed; */
+            bottom: 0;
+            /* background: rgba(0, 0, 0, 0.5); */
+            color: #f1f1f1;
+            width: 100%;
+            padding: 20px;
         }
