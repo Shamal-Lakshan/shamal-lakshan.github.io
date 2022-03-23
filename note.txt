@@ -1,0 +1,45 @@
+<div id="myamebody">
+                                            <ul id="mynameul">
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">P</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">R</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">A</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">T</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">H</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">A</div>
+                                                </li>
+                                                <li id="mynameid">
+                                                    <input type="checkbox" />
+                                                    <div id="mynamediv">M</div>
+                                                </li>
+                                            </ul>
+                                        </div>
+
+
+
+
+
+<div class="container">
+                                            <h2 class="title">
+                                                <span class="title-word title-word-1">Shamal</span>
+                                                <!-- <span class="title-word title-word-2">is</span>
+                                                <span class="title-word title-word-3">my</span> -->
+                                                <span class="title-word title-word-4">Lakshan</span>
+                                            </h2>
+                                        </div>                                        
