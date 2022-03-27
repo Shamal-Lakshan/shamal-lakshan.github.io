@@ -3134,3 +3134,7 @@
             width: 100%;
             padding: 20px;
         }
+        
+        .badge {
+            width: 50%;
+        }
