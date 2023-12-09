@@ -15,7 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  blog: https://www.shamallakshan-blog.netlify.app/
+  blog: https://www.blog.shamallakshan.me/
   # about: /about/
   # articles: /archives/
   # projects:
