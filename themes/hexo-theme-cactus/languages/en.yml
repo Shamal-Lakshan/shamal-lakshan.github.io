@@ -5,6 +5,7 @@ nav:
   tag: Tag
   category: Category
   projects: Certifications
+  certifications: certs
   search: Search
 
 icons:
@@ -20,6 +21,7 @@ index:
   enum_and: and
   articles: Writing
   projects: Certifications
+  certifications: certs
   topics: Topics
   most_recent: Most recent
 
