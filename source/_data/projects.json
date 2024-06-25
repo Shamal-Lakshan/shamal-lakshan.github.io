@@ -1,8 +1,26 @@
 [
    {
+      "name":"Advanced Learning Algorithms",
+      "url":"https://coursera.org/share/833e6027d8df5994de542e2acbb37fc5",
+      "desc":"DeepLearning.AI @Coursera"
+   },
+
+   {
+      "name":"Programming Fundamentals",
+      "url":"https://coursera.org/share/fb9972d126da9bf505a1fe87fbf7e675",
+      "desc":"Duke University @Coursera"
+   },
+   
+   {
       "name":"SLIIT AI/ML Engineer Stage 01",
       "url":"https://code.sliit.org/certificates/6sh8yzpumo",
       "desc":"Centre for Open and Distance Education @SLIIT"
+   },
+
+   {
+      "name":"Supervised ML: Regression and Classification",
+      "url":"https://coursera.org/share/8aa9460cb25cd8f088b6f1b7ca4ee35e",
+      "desc":"DeepLearning.AI @Coursera"
    },
    
    {
@@ -10,19 +28,62 @@
       "url":"https://cs50.harvard.edu/certificates/86adc425-b306-4862-a01b-b66b07c6bbde.pdf?size=letter",
       "desc":"CS50 Harvard"
    },
-
+   
    {
-      "name":"Fundamental of Red Hat Enterprise Linux",
-      "url":"https://www.coursera.org/account/accomplishments/certificate/LAVZE7MX6HLN",
-      "desc":"Red Hat @Coursera"
+      "name":"Python for Beginners",
+      "url":"https://jmslp-sources.netlify.app/Certs/Python_for_Beginners_E-Certificate.pdf",
+      "desc":"University of Moratuwa"
    },
-
+   
+   {
+      "name":"Advent of Cyber 4",
+      "url":"https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FB7LWIEMRB.png",
+      "desc":"TryHackMe"
+   },
+   
    {
       "name":"DiTec",
       "url":"https://shamal-lakshan.github.io/img/certificates/ditec.jpg",
       "desc":"ESOFT Metro Campus"
    },
+   
+   {
+      "name":"Open Source Software Development Methods",
+      "url":"https://coursera.org/share/00a2ff3dc4f1b674f56b5ba7ad8250f0",
+      "desc":"The Linux Foundation @Coursera"
+   },
 
+   
+   {
+      "name":"Oracle Cloud Infrastructure Foundations 2021 Associate",
+      "url":"https://i.imgur.com/CsMRiRx.png",
+      "desc":"Oracle"
+   },
+   
+   {
+      "name":"Using Git for Distributed Development",
+      "url":"https://coursera.org/share/d8fa82e0f505c5622456cd14475f9966",
+      "desc":"The Linux Foundation @Coursera"
+   },
+   
+   {
+      "name":"Open Source Software Development, Linux and Git",
+      "url":"https://coursera.org/share/1608bd71d113bfe171e6a144ff4c12fb",
+      "desc":"The Linux Foundation @Coursera"
+   },
+   
+   {
+      "name":"Linux for Developers",
+      "url":"https://coursera.org/share/717b35b69caf587d14881ab134f44be5",
+      "desc":"The Linux Foundation @Coursera"
+   },
+   
+   {
+      "name":"Linux Tools for Developers",
+      "url":"https://coursera.org/share/6ad970d5d2208a039860dba215cea82b",
+      "desc":"The Linux Foundation @Coursera"
+   },
+   
    {
       "name":"Introduction to IT & Cybersecurity",
       "url":"https://app.cybrary.it/courses/api/certificate/CC-31c8e47c-90aa-437c-8a1a-c64b3af5d793/view",
@@ -34,23 +95,29 @@
       "url":"https://www.coursera.org/account/accomplishments/verify/4KRWB8ZZ9QGD",
       "desc":"Google @Coursera"
    },
-
+   
    {
       "name":"Advent of Cyber 3",
       "url":"https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-K4IVR2BB0C.png",
       "desc":"TryHackMe"
    },
-
+   
    {
       "name":"HTML Course",
       "url":"https://www.sololearn.com/Certificate/1014-21805821/jpg",
       "desc":"SoloLearn"
    },
-
+   
    {
-      "name":"Open Source Software Development Methods",
-      "url":"https://coursera.org/share/00a2ff3dc4f1b674f56b5ba7ad8250f0",
-      "desc":"The Linux Foundation @Coursera"
+      "name":"Adobe Creative Educator Level 1",
+      "url":"https://i.imgur.com/bLEfcFz.png",
+      "desc":"Adobe"
+   },
+   
+   {
+      "name":"Fundamental of Red Hat Enterprise Linux",
+      "url":"https://www.coursera.org/account/accomplishments/certificate/LAVZE7MX6HLN",
+      "desc":"Red Hat @Coursera"
    },
 
    {
@@ -58,55 +125,6 @@
       "url":"https://i.imgur.com/OhA7Mj4.png",
       "desc":"The Open University"
    },
-
-   {
-      "name":"Oracle Cloud Infrastructure Foundations 2021 Associate",
-      "url":"https://i.imgur.com/CsMRiRx.png",
-      "desc":"Oracle"
-   },
-
-   {
-      "name":"Usign Git for Distributed Development",
-      "url":"https://coursera.org/share/d8fa82e0f505c5622456cd14475f9966",
-      "desc":"The Linux Foundation @Coursera"
-   },
-
-   {
-      "name":"Open Source Software Development, Linux and Git",
-      "url":"https://coursera.org/share/1608bd71d113bfe171e6a144ff4c12fb",
-      "desc":"The Linux Foundation @Coursera"
-   },
-
-   {
-      "name":"Linux for Developers",
-      "url":"https://coursera.org/share/717b35b69caf587d14881ab134f44be5",
-      "desc":"The Linux Foundation @Coursera"
-   },
-
-   {
-      "name":"Linux Tools for Developers",
-      "url":"https://coursera.org/share/6ad970d5d2208a039860dba215cea82b",
-      "desc":"The Linux Foundation @Coursera"
-   },
-
-   {
-      "name":"Adobe Creative Educator Level 1",
-      "url":"https://i.imgur.com/bLEfcFz.png",
-      "desc":"Adobe"
-   },
-
-   {
-      "name":"Advent of Cyber 4",
-      "url":"https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FB7LWIEMRB.png",
-      "desc":"TryHackMe"
-   },
-
-   {
-      "name":"Python for Beginners",
-      "url":"https://jmslp-sources.netlify.app/Certs/Python_for_Beginners_E-Certificate.pdf",
-      "desc":"University of Moratuwa"
-   },
-
 
    {
       "name":"Fundamentals of Professional Open Source Management(LFC110)",
